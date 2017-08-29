@@ -163,7 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/PB1770M/proprietary/vendor/bin/sound_trigger_test:system/vendor/bin/sound_trigger_test \
     vendor/lenovo/PB1770M/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/lenovo/PB1770M/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg \
-    vendor/lenovo/PB1770M/proprietary/vendor/etc/msm_irqbalance.conf:system/vendor/etc/msm_irqbalance.conf \
     vendor/lenovo/PB1770M/proprietary/vendor/etc/dolby/dax-default.xml:system/vendor/etc/dolby/dax-default.xml \
     vendor/lenovo/PB1770M/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/lenovo/PB1770M/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
