@@ -117,6 +117,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/PB1770M/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/lenovo/PB1770M/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/lenovo/PB1770M/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lenovo/PB1770M/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
+    vendor/lenovo/PB1770M/proprietary/vendor/lib64/libNimswrap.so:system/vendor/lib64/libNimsWrap.so \
     vendor/lenovo/PB1770M/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lenovo/PB1770M/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lenovo/PB1770M/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
